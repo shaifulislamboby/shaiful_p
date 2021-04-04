@@ -1,5 +1,5 @@
 """
-ASGI config for shaiful_p project.
+ASGI config for shaiful_p prect.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
